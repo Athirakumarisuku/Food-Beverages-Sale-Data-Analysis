@@ -12,8 +12,7 @@ What are the adjacent opportunities from the non-commercial establishments to ad
 Retailers are a different business division and out of scope for me (Shaun), but some of my customers/prospects could be buying from these retailers – so getting a view of retailer presence adjacent to his customers & prospects will help understand how much of these opportunities are being met / unmet.
 
 Dataset used
-Sales_Data
-
+Sales Data
 
 Process
 Built an interactive dashboard to visualize sales opportunities of F&B manufacturer services in three different business segments.
@@ -21,7 +20,14 @@ Used complex parameters to drill down in worksheets and customization using filt
 Created connections, join new columns, and enable user-driven parameters for visualizations.
 Used different types of customized visualization (bar chart, pie chart, donut chart, clustered bar chart, map, slicers, tables, etc).
 
-Dashboard<img width="1149" height="645" alt="Screenshot 2025-08-16 at 11 37 48 PM" src="https://github.com/user-attachments/assets/1d5f8824-ffca-4cb7-947b-5f07d4d26812" />
+Dashboard
+
+<img width="1149" height="645" alt="Screenshot 2025-08-16 at 11 37 48 PM" src="https://github.com/user-attachments/assets/1d5f8824-ffca-4cb7-947b-5f07d4d26812" />
+
+
+<img width="1137" height="626" alt="Screenshot 2025-08-16 at 11 39 46 PM" src="https://github.com/user-attachments/assets/63f4dc4a-f46e-44e5-a3af-f567838902c8" />
+
+
 
 
 
